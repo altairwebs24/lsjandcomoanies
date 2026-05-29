@@ -44,7 +44,7 @@ function About() {
             </div>
           </div>
           <div className="relative">
-            <img src={blueprints} alt="Architect reviewing blueprints" className="rounded-xl shadow-[var(--shadow-elegant)] w-full" width={1280} height={960} loading="lazy" />
+            <img src={blueprints} alt="Lucky Sifiso Mavuso, Consultant at LSJ Ncele Investments" className="rounded-xl shadow-[var(--shadow-elegant)] w-full object-cover" width={1280} height={1920} loading="lazy" />
           </div>
         </div>
       </section>
