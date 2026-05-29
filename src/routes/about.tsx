@@ -1,6 +1,6 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { Award, Users, ShieldCheck, Sparkles } from "lucide-react";
-import blueprints from "@/assets/about-blueprints.jpg";
+import blueprints from "@/assets/lucky-mavuso.jpg";
 
 export const Route = createFileRoute("/about")({
   head: () => ({
